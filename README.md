@@ -57,8 +57,8 @@ public class MqttCallBackImpl implements MqttCallback{
 首先引入依赖(jar包依赖见后面章节)：
 ```
 <dependency>
-  <groupId>com.leador.scd</groupId>
-  <artifactId>mqtt-listener</artifactId>
+  <groupId>cool.oooo.mqtt</groupId>
+  <artifactId>cool-mqtt</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```
